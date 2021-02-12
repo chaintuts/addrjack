@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addrjack", "addrjack\addrjack.csproj", "{61EB982D-4FE0-4D75-849B-E628743F9E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61EB982D-4FE0-4D75-849B-E628743F9E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EB982D-4FE0-4D75-849B-E628743F9E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EB982D-4FE0-4D75-849B-E628743F9E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EB982D-4FE0-4D75-849B-E628743F9E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B032E34B-3B71-4576-B916-10CB4AD8F4AA}
+	EndGlobalSection
+EndGlobal

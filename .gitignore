@@ -1,0 +1,8 @@
+# This file contains a list of project files that should not be pushed to the open source repository
+#
+# Author: Josh McIntyre
+#
+
+# Do not include built files or Visual Studio files
+bin/
+.vs/
