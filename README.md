@@ -28,15 +28,18 @@ Clean the build directory
 * Replace the address with the "attacker's" address
 
 ### Requirements
-* Requires the .NET framework (not great for malware, haha!)
+* Requires the .NET framework
+* Requires Python for the alternative Python version
 
 ### Platforms
 * Windows
+* Mac OSX
 
 ## Usage
 ____________
 
 ### CLI Usage
 * Run `addrjack.exe` - this will launch a background process with the demo malware
+* Run `python3 addrjack.py` for the Python version
 * Copy a Bitcoin address
 * Paste the address back, and note that it has been swapped with the attacker address
