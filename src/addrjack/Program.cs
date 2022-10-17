@@ -1,4 +1,8 @@
-﻿using System;
+﻿// This file contains code for a simple Bitcoin address-swapping malware demo
+//
+// Author: Josh McIntyre
+//
+using System;
 using System.Threading.Tasks;
 using System.Threading;
 using System.Text.RegularExpressions;
