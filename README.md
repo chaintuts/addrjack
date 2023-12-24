@@ -18,10 +18,8 @@ ________________
 * development for bugfixes and new features
 
 ### Building
-* make build
-Build the utility
-* make clean
-Clean the build directory
+* Build using Visual Studio for C# version
+* For Python version, copy scripts to desired directory
 
 ### Features
 * Detect Bitcoin addresses in the Windows copy-paste buffer
